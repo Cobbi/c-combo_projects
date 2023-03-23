@@ -16,12 +16,12 @@ int main(void)
 	}
 	else if (select == '2')
 	{
-		printf("Multiply");
+		multiply();
 		
 	}
 	else if (select == '3')
 	{
-		printf("Divide");
+		divide();
 		
 	}
     else if (select == 'e')
